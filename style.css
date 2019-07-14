@@ -1,3 +1,8 @@
-background{
-    
+body{
+    background: red;
+
+}
+p{
+    font-family: Algerian;
+    font-size: medium;
 }
